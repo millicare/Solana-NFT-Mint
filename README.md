@@ -1,12 +1,4 @@
-# nft-minting-dapp
-🖼️ A Solana NFT Minting dApp built with Anchor framework and Metaplex.
-
-
 ## Development
-Clone the repository
-```
-git clone https://github.com/berzanxyz/nft-minting-dapp.git
-```
 
 Building the program
 ```
@@ -24,5 +16,3 @@ anchor deploy
 ```
 
 <br/>
-
-Built with ❤️ by Berzan
